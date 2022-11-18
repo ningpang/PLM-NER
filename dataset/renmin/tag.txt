@@ -1,0 +1,10 @@
+<pad>
+B_nr
+I_nr
+B_nt
+I_nt
+B_ns
+I_ns
+O
+<start>
+<eos>
